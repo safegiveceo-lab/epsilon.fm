@@ -902,9 +902,9 @@ pyyaml==6.0.2 ; python_version >= "3.12" and python_version < "4.0" \
 readme-metrics==3.1.0 ; python_version >= "3.12" and python_version < "4.0" \
     --hash=sha256:2c1fbc538483700a9abef132d264218903b50cd437cb8685d4864ca26db1441c \
     --hash=sha256:c736477acaf0ce015bca4dbe22cd8a4e64642f131127888f90783a5c12ea89eb
-redis==5.0.8 ; python_version >= "3.12" and python_version < "4.0" \
-    --hash=sha256:0c5b10d387568dfe0698c6fad6615750c24170e548ca2deac10c649d463e9870 \
-    --hash=sha256:56134ee08ea909106090934adc36f65c9bcbbaecea5b21ba704ba6fb561f8eb4
+redis==7.3.0 ; python_version >= "3.12" and python_version < "4.0" \
+    --hash=sha256:4d1b768aafcf41b01022410b3cc4f15a07d9b3d6fe0c66fc967da2c88e551034 \
+    --hash=sha256:9d4fcb002a12a5e3c3fbe005d59c48a2cc231f87fbb2f6b70c2d89bb64fec364
 redis[hiredis]==5.0.8 ; python_version >= "3.12" and python_version < "4.0" \
     --hash=sha256:0c5b10d387568dfe0698c6fad6615750c24170e548ca2deac10c649d463e9870 \
     --hash=sha256:56134ee08ea909106090934adc36f65c9bcbbaecea5b21ba704ba6fb561f8eb4
