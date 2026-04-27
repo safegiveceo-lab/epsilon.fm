@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for epsilon-fm on 2026-04-27T22:58:20Z
+# fly.toml app configuration file generated for epsilon-fm-kl1-rq on 2026-04-27T23:34:59Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'epsilon-fm'
-primary_region = 'jnb'
+app = 'epsilon-fm-kl1-rq'
+primary_region = 'ams'
 
 [build]
 
